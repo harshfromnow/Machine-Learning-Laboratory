@@ -1,2 +1,2 @@
 # Machine-Learning-Laboratory
-Algorithms done in ML lab S5
+ML lab Semester 5
